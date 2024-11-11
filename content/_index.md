@@ -5,7 +5,7 @@ weight: 1
 ---
 
 # Ctrl+Alt+Reclaim
-## A Youth Manifesto for our Digital World
+## A Youth Manifesto for our Digital World.
 
 As the first generation to grow up online, we understand all that the internet can bring: community across continents and cultures, participation in movements that can change the world, instant access to information and services on a scale never dreamed of in history.
 
@@ -13,7 +13,7 @@ So we know our incredible luck – to be born to play, work and dream in this pr
 
 And that’s why we must fight to protect it.
 
-A tiny group of CEOs have taken this gift, this product of collective creativity – and claimed it for themselves. They’ve commandeered its networks; walled in its profits; built vast, opaque monopolies that answer to no one. And in the process, they’ve put our digital lives at risk. 
+A tiny group of CEOs have taken this gift, this product of collective creativity – and claimed it for themselves. They’ve commandeered its networks; walled in its profits; built vast, opaque monopolies that answer to no one. And in the process, they’ve put our lives at risk. 
 
 - **They are addictive by design**, calibrating their algorithms to suck us in and keep us there; conditioning our minds so we open their apps without fully wanting to; trapping our attention with tightly tailored, toxic feeds that sap our self-esteem along with our time, energy and youth.
 - **They are harmful to everyone**, subjecting us to hour after hour, day after day of hate, disinformation, rage and junk, overwhelming the cognitive defences that could deflect each barb alone, but not the full-scale assault, warping our perception of the world around us.
