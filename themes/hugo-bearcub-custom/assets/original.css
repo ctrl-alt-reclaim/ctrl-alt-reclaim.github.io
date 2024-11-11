@@ -4,11 +4,11 @@ body {
   padding: 20px;
   max-width: 720px;
   text-align: left;
-  background-color: #1d1f27;
+  background-color: #c2dfdc;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: #c9d1d9;
+  color: #262c11;
 }
 
 h1,
@@ -19,11 +19,11 @@ h5,
 h6,
 strong,
 b {
-  color: #eee;
+  color: #262c11;
 }
 
 a {
-  color: #8cc2dd;
+  color: #55483b;
 }
 
 .title {
