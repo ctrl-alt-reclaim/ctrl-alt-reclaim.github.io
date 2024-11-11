@@ -1,7 +1,7 @@
 # Basic config
 baseURL = "https://example.com"
 theme = "hugo-bearcub-custom"
-copyright = "John Doe (CC BY 4.0)"
+copyright = "Ctrl+Alt+Reclaim"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -23,23 +23,23 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
-    languageName = "en-US 🇺🇸"
+    title = "Ctrl+Alt+Reclaim"
+    languageName = "English 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.pt]
-    title = "Bear Cub"
-    languageName = "pt-BR 🇧🇷"
-    LanguageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  [languages.fr]
+    title = "Ctrl+Alt+Reclaim"
+    languageName = "French 🇫🇷"
+    LanguageCode = "fr-FR"
+    contentDir = "content.fr"
+    [languages.fr.params]
+      madeWith = "Fait avec [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "Ctrl+Alt+Reclaim manifesto"
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -52,7 +52,7 @@ enableRobotsTXT = true
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
-  title = "Bear Cub"
+  title = "Ctrl+Alt+Reclaim"
 
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
