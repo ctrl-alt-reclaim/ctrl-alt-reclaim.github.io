@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-# Ctrl+Alt+Reclaim
+# ⌘ Ctrl+Alt+Reclaim ⌘
 ## A Youth Manifesto for our Digital World.
 
 As the first generation to grow up online, we understand all that the internet can bring: community across continents and cultures, participation in movements that can change the world, instant access to information and services on a scale never dreamed of in history.

@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-# Ctrl+Alt+Reclaim
+# ⌘ Ctrl+Alt+Reclaim ⌘
 ## Un manifeste de la Jeunesse pour notre monde numérique.
 
 
