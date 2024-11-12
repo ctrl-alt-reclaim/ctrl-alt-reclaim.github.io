@@ -30,4 +30,4 @@ C'est le monde que nous voulons tous. C'est ainsi que nous le rendons réel. À 
 - **Choix et diversité**: Agissons pour briser les monopoles des géants du numérique afin de pouvoir construire les médias sociaux respectueux, sûrs et habilitants que nous voulons vraiment.
 - **Confiance et vie privée**. Gagnons des lois strictes pour protéger nos données personnelles et restaurer nos frontières afin que lorsque nous sommes en ligne, ce soit pour nous et nous seuls.
 
-**C'est notre moment : rejoignez le mouvement. Décidez de votre propre avenir.**
+**C'est notre moment : [Rejoignez le mouvement](https://cryptpad.fr/form/#/2/form/view/YFfJSjooyYEtp6cdcjpcYWddXet+r29hdTgROpBgeq4/). Décidez de votre propre avenir.**

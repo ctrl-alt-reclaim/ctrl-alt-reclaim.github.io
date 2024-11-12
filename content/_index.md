@@ -29,4 +29,4 @@ This is the world all of us want. This is how we make it real. From today, and e
 - **Choice and diversity**: Let’s take action to break open the Big Tech monopolies so we can build the respectful, safe and empowering social media we really want.
 - **Trust and privacy**. Let’s win strong laws to safeguard our personal data and restore our boundaries so when we go online it’s for us and us alone. 
 
-**This is our time: Join the movement. Decide your own future.**
+**This is our time: [Join the movement](https://cryptpad.fr/form/#/2/form/view/YFfJSjooyYEtp6cdcjpcYWddXet+r29hdTgROpBgeq4/).Decide your own future.**
