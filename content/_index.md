@@ -11,8 +11,8 @@ As the first generation to grow up online, we understand all that the internet c
 
 But a tiny group of CEOs have taken this gift, this product of collective creativity – and claimed it for themselves. They’ve commandeered its networks; walled in its profits; built vast, opaque monopolies that answer to no one. And in the process, they’ve put our lives at risk. 
 
-- **They are addictive by design**, calibrating their algorithms to suck us in and keep us there; conditioning our minds so we open their apps without fully wanting to; trapping our attention with tightly tailored, toxic feeds that sap our self-esteem along with our time and energy
-- **They are harmful**, subjecting us to hour after hour, day after day of hate, disinformation, rage, violence and spam, overwhelming our abilities to process our emotions and maintain our wellbeing
+- **They are addictive by design**, calibrating their algorithms to suck us in and keep us there; conditioning our minds so we open their apps without fully wanting to; trapping our attention with tightly tailored, toxic feeds that sap our self-esteem along with our time and energy.
+- **They are harmful**, subjecting us to hour after hour, day after day of hate, disinformation, rage, violence and spam, overwhelming our abilities to process our emotions and maintain our wellbeing.
 - **They are intrusive**, invading our lives with the biggest surveillance operation in history – finding our deepest secrets, sitting in on our private moments, plundering our hopes, our neuroses, our darkest fears and turning our lives into data to be profited from.
 
 We may be the first generation to live our whole lives as ‘profiles’, but we’re here to say we will be the last. Because we’re ready to Ctrl+Alt+Reclaim.
