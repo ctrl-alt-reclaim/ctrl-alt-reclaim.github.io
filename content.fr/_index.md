@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Un manifeste de la Jeunesse pour notre monde numérique"
 menu: "main"
 weight: 1
 ---

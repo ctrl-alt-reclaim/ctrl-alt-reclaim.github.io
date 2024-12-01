@@ -9,7 +9,7 @@
   <link href="https://fonts.cdnfonts.com/css/garet" rel="stylesheet">
   
   {{- partial "favicon.html" . -}}
-  <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
+  <title>{{ end }}{{ .Site.Title }}{{- end }} | {{- block "title" . }}{{ with .Title }}{{ . }}</title>
 
   {{- partial "seo_tags.html" . -}}
   <meta name="referrer" content="no-referrer-when-downgrade" />

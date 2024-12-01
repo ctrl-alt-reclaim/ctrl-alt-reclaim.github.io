@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "A Youth Manifesto for our Digital World"
 menu: "main"
 weight: 1
 ---
