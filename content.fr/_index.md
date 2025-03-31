@@ -24,5 +24,3 @@ C'est le monde que nous voulons tous. Voici comment nous allons le rendre réel.
 - **Des fils d’actualités sains**. Forçons les grandes entreprises de la tech à divulguer comment elles conçoivent leurs algorithmes et utilisent nos données, afin que nous puissions remplacer l’addiction par l’enrichissement.
 - **Du choix et de la diversité**. Agissons pour briser les monopoles des géants de la tech afin que nous puissions construire les réseaux sociaux respectueux, sûrs et empowerants que nous désirons vraiment.
 - **De la confiance et de la vie privée**. Gagnons des lois fortes pour protéger nos données personnelles et restaurer nos frontières, afin que lorsque nous allons en ligne, ce soit pour nous et nous seuls.
-
-**C'est notre moment : [Rejoignez le mouvement](https://cryptpad.fr/form/#/2/form/view/YFfJSjooyYEtp6cdcjpcYWddXet+r29hdTgROpBgeq4/). Décidez de votre propre avenir.**
